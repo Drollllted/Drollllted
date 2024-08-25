@@ -27,3 +27,7 @@
 - Telegram - @Artyom920
 - Mail - drolllted@gmail.com
 - HH.ru - [Summary](https://spb.hh.ru/resume/bf2f3967ff0cd9327f0039ed1f426d61783072)
+
+
+![IMAGE 2024-08-25 15:06:53](https://github.com/user-attachments/assets/d94d0ead-78af-495e-88cd-ea0c10716af3)
+
