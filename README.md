@@ -10,7 +10,7 @@
 - 🤓 **Builder, Router, Singleton**
 - 😮 **SnapKit**
 - 😮 **Core Data**
-- 😮**URLSession**
+- 😮 **URLSession**
 - 🫣 **RXSwift (Application develop)**
 - 🫣 **Alamofire**
 
