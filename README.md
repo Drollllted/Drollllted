@@ -1,5 +1,5 @@
 ## Hi Everyone
-👋 My name is Artem and i'm **Swift Developer**. I really love coding, listening to different music and preparing to work in a **big company**. Started developing in February 2024. Worked on small projects, then went to the DevRush marathon. Learned to work with **URLSession, Alamofire, SnapKit, CoreData, Firebase(Interacted a little with FireBase, Kingfish, AVFoundation)** there. Thanks to this marathon, I learned to work in a team. I rate my level as an **intern/junior developer**
+👋 My name is Artem and i'm **Swift Developer**. I really love coding, listening to different music and preparing to work in a **big company**. Started developing in February 2024. Worked on small projects, then went to the DevRush marathon. Learned to work with **URLSession, Alamofire, SnapKit, CoreData. Interacted a little with FireBase, Kingfish, AVFoundation** there. Thanks to this marathon, I learned to work in a team. I rate my level as an **intern/junior developer**
 
 
 ## My Stack
