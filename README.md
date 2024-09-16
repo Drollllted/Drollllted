@@ -11,7 +11,7 @@
 - 😮 **Core Data**
 - 😮**URLSession**
 - 🫣 **RXSwift (Application develop)**
-- 🫣 **Alamofire
+- 🫣 **Alamofire**
 
 ## My Apps
 
@@ -23,14 +23,14 @@
 
 ## I am working on my projects such as:
 - ✍️ **[Luck Coffee](https://github.com/Drollllted/LuckCoffee) - A coffee shop app that will show my layout skills**
-- ✍️ [WeatherApp](https://github.com/Drollllted/WeatherApp) - **Working on a weather app on MVP with Builder + Router. I get data from the URLSessio API.**
+- ✍️ **[WeatherApp](https://github.com/Drollllted/WeatherApp) - Working on a weather app on MVP with Builder + Router. I get data from the URLSessio API.**
 - 🫣 **Other - And I’m looking for other projects to develop my skills**
 
 ## How to contact me?
 
-- Telegram - @Artyom920
-- Mail - drolllted@gmail.com
-- HH.ru - [Summary](https://spb.hh.ru/resume/bf2f3967ff0cd9327f0039ed1f426d61783072)
+**- Telegram - @Artyom920**
+**- Mail - drolllted@gmail.com**
+**- HH.ru - [Summary](https://spb.hh.ru/resume/bf2f3967ff0cd9327f0039ed1f426d61783072)**
 
 ![IMAGE 2024-08-25 15:06:53](https://github.com/user-attachments/assets/d94d0ead-78af-495e-88cd-ea0c10716af3)
 
