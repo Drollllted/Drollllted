@@ -24,7 +24,6 @@
 
 ## I am working on my projects such as:
 - ✍️ **[Luck Coffee](https://github.com/Drollllted/LuckCoffee) - A coffee shop app that will show my layout skills**
-- ✍️ **[WeatherApp](https://github.com/Drollllted/WeatherApp) - Working on a weather app on MVP with Builder + Router. I get data from the URLSessio API.**
 - 🫣 **Other - And I’m looking for other projects to develop my skills**
 
 ## How to contact me?
