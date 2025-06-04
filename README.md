@@ -6,7 +6,7 @@
 
 - 🤓 **Xcode** 
 - 🤓 **UIkit**
-- 🤓 **MVP, MVC**
+- 🤓 **MVP, MVC, MVVM + Coordinator**
 - 🤓 **Builder, Router, Singleton**
 - 😮 **SnapKit**
 - 😮 **Core Data**
